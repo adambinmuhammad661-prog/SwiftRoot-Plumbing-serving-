@@ -1,0 +1,6 @@
+{
+  "name": "SwiftRoot Plumbing",
+  "description": "Premium, modern plumbing website for SwiftRoot Plumbing serving Liverpool, UK. Features emergency response, reviews, maps, and dynamic dark/light toggle.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
